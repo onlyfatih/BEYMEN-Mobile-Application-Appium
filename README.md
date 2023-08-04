@@ -16,31 +16,7 @@ Bu proje, Beymen Mobil Uygulaması'nın otomasyon testlerini gerçekleştirmek i
 
 ## Proje Yapısı
 
-Proje, BDD (Behavior-Driven Development) yaklaşımı kullanılarak Cucumber senaryoları ile tasarlanmıştır. Proje yapısı aşağıdaki gibidir:
-
-```
-├── src
-│   ├── main
-│   │   └── java
-│   │       └── com
-│   │           └── example
-│   │               ├── pages
-│   │               │   ├── HomePage.java
-│   │               │   └── ProfilePage.java
-│   │               ├── tests
-│   │               │   └── StepDefinitions.java
-│   │               └── utils
-│   │                   ├── DriverManager.java
-│   │                   └── ConfigReader.java
-│   └── test
-│       └── resources
-│           ├── features
-│           │   ├── accountVerify.feature
-│           │   └── adressVerify.feature
-│           └── app
-│               └── BeymenApp.apk
-└── pom.xml
-```
+Proje, BDD (Behavior-Driven Development) yaklaşımı kullanılarak Cucumber senaryoları ile tasarlanmıştır.
 
 ## Kurulum
 
