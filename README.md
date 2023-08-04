@@ -14,9 +14,9 @@ Bu proje, Beymen Mobil Uygulaması'nın otomasyon testlerini gerçekleştirmek i
 - Appium
 - Android Emülatörü veya Fiziksel Android Cihaz
 
-## Proje Yapısı
+## Test Senaryoları
 
-Proje, BDD (Behavior-Driven Development) yaklaşımı kullanılarak Cucumber senaryoları ile tasarlanmıştır.
+Bu proje, BDD (Behavior-Driven Development) yaklaşımını benimsemiştir. Test senaryoları, Cucumber özellik dosyalarında Gherkin dilinde açık ve anlaşılır şekilde yazılmıştır. Senaryolar, uygulamanın kullanıcı davranışlarına dayanarak tasarlanmış ve farklı senaryoların test edilmesi sağlanmıştır.
 
 ## Kurulum
 
