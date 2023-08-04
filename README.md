@@ -1,13 +1,9 @@
 # BEYMEN-Mobile-Application-Appium
 
-Tabii, elbette! İşte daha fazla ayrıntı ve zenginleştirilmiş bir README dosyası:
-
-# Beymen Mobil Uygulaması Otomasyon Testleri
-
 Bu proje, Beymen Mobil Uygulaması'nın otomasyon testlerini gerçekleştirmek için geliştirilmiştir. Uygulamayı test etmek için Java ve Selenium tabanlı bir Appium test çerçevesi kullanılmıştır.
 
 <p align="center">
-  <img src="https://url-to-your-project-logo.png" alt="Proje Logo" width="300" />
+  <img src="https://landostudio.com/wp-content/uploads/2020/11/beymen-logo.png" alt="Proje Logo" width="300" />
 </p>
 
 ## Gereksinimler
